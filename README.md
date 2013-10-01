@@ -1,4 +1,4 @@
-How to setup qt/vtk/itk on windows using visual studio 2010
+How to setup qt/vtk/itk on windows
 ======
 
 Step 0:
